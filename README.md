@@ -72,12 +72,3 @@
   <img src="https://camo.githubusercontent.com/a58f1c842a113bb5b0b16aee39fa952ab7047ace892e0558bc23ac81d1c35f92/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b5465616d7326636f6c6f723d363236344137266c6f676f3d4d6963726f736f66742b5465616d73266c6f676f436f6c6f723d464646464646266c6162656c3d">
 
 </div>
-
-<div align="center">
-  <h2> ⚙️Analytics </h2>
-
-  <a href="https://github.com/gustavomvs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemarioto&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemarioto&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
-  </a>
-</div>
