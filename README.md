@@ -73,11 +73,11 @@
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <h2> ⚙️Analytics </h2>
 
-  <a href="https://github.com/henriquemarioto">
+  <a href="https://github.com/gustavomvs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemarioto&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemarioto&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
-</div> -->
+</div>
