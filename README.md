@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://camo.githubusercontent.com/f7e3d0a0341bd1b2f5f5c930e6f3c8af3902d871982aeb10c268ef7fa5e0c810/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b5368617265506f696e7426636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b5368617265506f696e74266c6f676f436f6c6f723d464646464646266c6162656c3d">
 </div>
 
 <div align="center">
@@ -57,11 +58,11 @@
   <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2> ⚙️Analytics </h2>
 
   <a href="https://github.com/henriquemarioto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemarioto&show_icons=true&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemarioto&layout=compact&langs_count=7&bg_color=000&text_color=fff&icon_color=03a1fc&title_color=03a1fc"/>
   </a>
-</div>
+</div> -->
