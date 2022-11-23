@@ -1,8 +1,3 @@
-<!--
-<div align="center">
-  <img src="https://i.postimg.cc/T2j6PbRy/gifgithub.gif" width="60%" />
-</div> -->
-
 # Hello, world! 🤟
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/gustavomvs)
