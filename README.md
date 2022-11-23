@@ -79,7 +79,6 @@
 
 ##
 
-<br/>
   <h2>⚙️Analytics </h2>
 
   <div align="center">
