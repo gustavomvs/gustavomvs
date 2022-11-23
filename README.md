@@ -80,6 +80,7 @@
 ##
 
 <br/>
+  <h2>⚙️Analytics </h2>
 
   <div align="center">
   <a href="https://github.com/gustavomvs">
